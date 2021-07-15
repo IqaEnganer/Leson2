@@ -42,6 +42,4 @@
 *  Openjdk version "11.0.11"
 *  Intellij IDEA Community edition 
 
-*  jdk-11
-*  Intellij IDEA Community edition 
 
