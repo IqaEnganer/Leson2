@@ -1,13 +1,13 @@
-# Отчёт о тестировании <Название приложения>
+# Отчёт о тестировании 
 
 ## Краткое описание
-
+ * Проверка функции расчета баланса при пополнении счета. 
 14.07.2021 - 14.07.2021 было проведено Функциональное тестирование приложения Money Transfer
 
-На тестирование затрачено: <2>
+На тестирование затрачено: <2 Часа>
 
 В результате тестирования выявлены следующие дефекты:
-* <code>[Не корректный расчет суммы остатка в Money Transfer](https://github.com/IqaEnganer/Leson2/issues/1) </code>
+* <code>[Не корректный расчет суммы остатка, при пополнении счета](https://github.com/IqaEnganer/Leson2/issues/1) </code>
 
 
 ## Описание процесса тестирования
@@ -20,10 +20,10 @@
  7. Создать Баг репорты 
 
 ####В процессе тестирования использовались следующие артефакты*:
-* Баг репорт
+* <code>[Тест кейс](https://docs.google.com/spreadsheets/d/1Ub57L9eBkfn-kX7fLww94kDaGEQcSdEF2PUDJ-IibV4/edit#gid=0) </code>
 
 
-В качестве тестовых данных использовались данные <code> [Данные](https://github.com/netology-code/javaqa-code/blob/master/1.2_programming/variables/src/Main.java) </code>
+В качестве тестовых данных использовались  <code> [Данные](https://github.com/netology-code/javaqa-code/blob/master/1.2_programming/variables/src/Main.java) </code>
 * текущий баланс счёта клиента 2.000.000.000
 * сумма перевода на данный счет 500.000.000
 
@@ -37,5 +37,5 @@
 * Выпуск	Windows 10 
   Версия	20H2
   64-разрядная операционная система
-*  jdk-11
+*  Openjdk version "11.0.11"
 *  Intellij IDEA Community edition 
